@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshal 
-- I;m currently working on Java-script
+- I'm currently working on Java-script
 - 👀 I’m interested in web development , python and sql
 - 🌱 I’m currently learning java script and python
 - 💞️ I’m looking to collaborate on ...
