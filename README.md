@@ -3,8 +3,6 @@
 - 👀 I’m interested in Web Development , Java and Sql
 - 🌱 I’m currently learning React js and java
 - 📫 How to reach me :- https://stackoverflow.com/users/16360162/groot?tab=profile
-<h3 align="center">A passionate frontend developer from India</h3>
-<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
