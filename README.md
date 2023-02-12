@@ -1,7 +1,7 @@
 <!-- - 👋 Hi, I’m Harshal  -->
 - I'm currently working on Angular
 - 👀 I’m interested in Web Development And AWS
-- 🌱 I’m currently learning Angular And AWS
+- 🌱 I’m currently learning React js And AWS
 - 📫 How to reach me :- https://stackoverflow.com/users/16360162/groot?tab=profile
 
 <h3 align="center">A passionate frontend developer from India</h3>
