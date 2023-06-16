@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m Harshal  -->
-- I'm currently working on Angular
+- I'm currently working on React Js
 - 👀 I’m interested in Web Development And AWS
 - 🌱 I’m currently learning React js And AWS
 - 📫 How to reach me :- https://stackoverflow.com/users/16360162/groot?tab=profile
