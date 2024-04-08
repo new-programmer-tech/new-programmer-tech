@@ -6,9 +6,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=new-programmer-tech&label=Profile%20views&color=0e75b6&style=flat" alt="new-programmer-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new-programmer-tech" alt="new-programmer-tech" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
